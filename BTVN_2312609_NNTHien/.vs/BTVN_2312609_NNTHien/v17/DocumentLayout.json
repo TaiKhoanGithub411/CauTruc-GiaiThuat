@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "O:\\Visual Studio\\BTVN_2312609_NNTHien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD3E509-22A9-44E9-8AD9-3DF134763875}|BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien.vcxproj|O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DD3E509-22A9-44E9-8AD9-3DF134763875}|BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien.vcxproj|solutionrelative:BTVN_2312609_NNTHien\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD3E509-22A9-44E9-8AD9-3DF134763875}|BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien.vcxproj|O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DD3E509-22A9-44E9-8AD9-3DF134763875}|BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien.vcxproj|solutionrelative:BTVN_2312609_NNTHien\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD3E509-22A9-44E9-8AD9-3DF134763875}|BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien.vcxproj|O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DD3E509-22A9-44E9-8AD9-3DF134763875}|BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien.vcxproj|solutionrelative:BTVN_2312609_NNTHien\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DD3E509-22A9-44E9-8AD9-3DF134763875}|BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien.vcxproj|O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\dsnv.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1DD3E509-22A9-44E9-8AD9-3DF134763875}|BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien.vcxproj|solutionrelative:BTVN_2312609_NNTHien\\dsnv.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dsnv.txt",
+              "DocumentMoniker": "O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\dsnv.txt",
+              "RelativeDocumentMoniker": "BTVN_2312609_NNTHien\\dsnv.txt",
+              "ToolTip": "O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\dsnv.txt",
+              "RelativeToolTip": "BTVN_2312609_NNTHien\\dsnv.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-16T12:24:41.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.h",
+              "DocumentMoniker": "O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\Menu.h",
+              "RelativeDocumentMoniker": "BTVN_2312609_NNTHien\\Menu.h",
+              "ToolTip": "O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\Menu.h",
+              "RelativeToolTip": "BTVN_2312609_NNTHien\\Menu.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T12:24:25.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Thuvien.h",
+              "DocumentMoniker": "O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\Thuvien.h",
+              "RelativeDocumentMoniker": "BTVN_2312609_NNTHien\\Thuvien.h",
+              "ToolTip": "O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\Thuvien.h",
+              "RelativeToolTip": "BTVN_2312609_NNTHien\\Thuvien.h",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwIMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T12:23:58.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cpp",
+              "DocumentMoniker": "O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\Program.cpp",
+              "RelativeDocumentMoniker": "BTVN_2312609_NNTHien\\Program.cpp",
+              "ToolTip": "O:\\Visual Studio\\BTVN_2312609_NNTHien\\BTVN_2312609_NNTHien\\Program.cpp",
+              "RelativeToolTip": "BTVN_2312609_NNTHien\\Program.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T12:23:40.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
