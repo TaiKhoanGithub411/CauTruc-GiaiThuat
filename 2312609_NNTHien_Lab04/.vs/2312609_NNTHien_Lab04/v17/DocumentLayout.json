@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\",
+  "WorkspaceRootPath": "O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C679931A-39FB-45EA-A2AA-13311165A83E}|Lab04_HD1\\Lab04_HD1.vcxproj|F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\Lab04_HD1\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C679931A-39FB-45EA-A2AA-13311165A83E}|Lab04_HD1\\Lab04_HD1.vcxproj|O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\Lab04_HD1\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C679931A-39FB-45EA-A2AA-13311165A83E}|Lab04_HD1\\Lab04_HD1.vcxproj|solutionrelative:Lab04_HD1\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C679931A-39FB-45EA-A2AA-13311165A83E}|Lab04_HD1\\Lab04_HD1.vcxproj|F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\Lab04_HD1\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C679931A-39FB-45EA-A2AA-13311165A83E}|Lab04_HD1\\Lab04_HD1.vcxproj|O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\Lab04_HD1\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C679931A-39FB-45EA-A2AA-13311165A83E}|Lab04_HD1\\Lab04_HD1.vcxproj|solutionrelative:Lab04_HD1\\Thuvien.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C679931A-39FB-45EA-A2AA-13311165A83E}|Lab04_HD1\\Lab04_HD1.vcxproj|F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\Lab04_HD1\\Program01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C679931A-39FB-45EA-A2AA-13311165A83E}|Lab04_HD1\\Lab04_HD1.vcxproj|O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\Lab04_HD1\\Program01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C679931A-39FB-45EA-A2AA-13311165A83E}|Lab04_HD1\\Lab04_HD1.vcxproj|solutionrelative:Lab04_HD1\\Program01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Menu.h",
-              "DocumentMoniker": "F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\Lab04_HD1\\Menu.h",
+              "DocumentMoniker": "O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\Lab04_HD1\\Menu.h",
               "RelativeDocumentMoniker": "Lab04_HD1\\Menu.h",
-              "ToolTip": "F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\Lab04_HD1\\Menu.h",
+              "ToolTip": "O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\Lab04_HD1\\Menu.h",
               "RelativeToolTip": "Lab04_HD1\\Menu.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-16T07:47:16.86Z",
               "EditorCaption": ""
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Thuvien.h",
-              "DocumentMoniker": "F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\Lab04_HD1\\Thuvien.h",
+              "DocumentMoniker": "O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\Lab04_HD1\\Thuvien.h",
               "RelativeDocumentMoniker": "Lab04_HD1\\Thuvien.h",
-              "ToolTip": "F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\Lab04_HD1\\Thuvien.h",
+              "ToolTip": "O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\Lab04_HD1\\Thuvien.h",
               "RelativeToolTip": "Lab04_HD1\\Thuvien.h",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-16T07:47:12.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T07:47:12.373Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program01.cpp",
-              "DocumentMoniker": "F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\Lab04_HD1\\Program01.cpp",
+              "DocumentMoniker": "O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\Lab04_HD1\\Program01.cpp",
               "RelativeDocumentMoniker": "Lab04_HD1\\Program01.cpp",
-              "ToolTip": "F:\\C\u1EA5u tr\u00FAc - Thu\u1EADt Gi\u1EA3i\\2312609_NNTHien_Lab04\\Lab04_HD1\\Program01.cpp",
+              "ToolTip": "O:\\Visual Studio\\CauTruc-GiaiThuat\\2312609_NNTHien_Lab04\\Lab04_HD1\\Program01.cpp",
               "RelativeToolTip": "Lab04_HD1\\Program01.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-16T07:46:40.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-16T07:46:40.645Z"
             }
           ]
         }

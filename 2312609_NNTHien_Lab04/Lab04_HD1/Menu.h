@@ -22,8 +22,6 @@ void XuatMenu()
 	cout << "\n14.Huy nut x cuoi cung";
 	cout << "\n15.Huy tat ca nut x";
 	cout << "\n16.Huy toan bo danh sach";
-	cout << "\n17.Sap tang - Chon truc tiep (hoan doi du lieu)";
-	cout << "\n18.Sap tang - Chon truc tiep (hoan doi lien ket)";
 }
 int ChonMenu(int soMenu)
 {
