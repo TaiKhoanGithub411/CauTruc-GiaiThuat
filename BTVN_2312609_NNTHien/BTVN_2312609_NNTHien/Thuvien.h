@@ -28,6 +28,13 @@ int DocFile(char* filename, List& dsnv);
 void XuatTieuDe();
 void Xuat1NV(Data nv);
 void XuatDSNV(List dsnv);
+int  LinearSearch_Last(List dsnv, char name[10]);
+Node* Search_MaNV(List dsnv, char manv[10]);
+void InsertAfter(List& dsnv, Data x, Node* y);
+Data Nhap1NV(char manv[10], char ho[10], char tenlot[10], char ten[10], int namsinh, float hsluong);
+int RemoveNode_First(List& dsnv, char ten[10]);
+void RemoveX(List& dsnv, char ten[10]);
+void SelectionSort_NamSinh(List& dsnv);
 //===================================================================
 Node* GetNode(Data nv)
 {
@@ -130,4 +137,118 @@ int DemNV_HSLuong(List dsnv)
 			dem++;
 	}
 	return dem;
+}
+int  LinearSearch_Last(List dsnv, char name[10])
+{
+	Node* p;
+	int kq = -1, i = 0;
+	p = dsnv.Head;
+	while (p != NULL)
+	{
+		if (_strcmpi(p->infor.Ten,name)==0)
+			kq = i;
+		i++;
+		p = p->pNext;
+	}
+	return kq;
+}
+Node* Search_MaNV(List dsnv, char manv[10])
+{
+	Node* vt = dsnv.Head;
+	while ((vt!=NULL)&&(_strcmpi(vt->infor.MaNV,manv)!=0))
+	{
+		vt = vt->pNext;
+	}
+	return vt;
+}
+void InsertAfter(List& dsnv, Data x, Node* y)
+{
+	Node* new_nv = GetNode(x);
+	if (new_nv == NULL)
+	{
+		cout << "\nLoi cap bo nho";
+		return;
+	}
+	if (y != NULL)
+	{
+		new_nv->pNext = y->pNext;
+		y->pNext = new_nv;
+		if (y == dsnv.Tail)
+			dsnv.Tail = new_nv;
+	}
+	else
+	{
+		new_nv->pNext = y->pNext;
+		y->pNext = new_nv;
+		if (y == dsnv.Tail)
+		{
+			dsnv.Tail = new_nv;
+		}
+	}
+}
+void InsertX_End_Y(List& dsnv, char manv[10], Data x)
+{
+	Node* q;
+	q = Search_MaNV(dsnv, manv);
+	InsertAfter(dsnv, x, q);
+}
+Data Nhap1NV(char manv[10], char ho[10], char tenlot[10], char ten[10], int namsinh, float hsluong)
+{
+	Data x;
+	strcpy_s(x.MaNV, sizeof(x.MaNV), manv);
+	strcpy_s(x.Ho, sizeof(x.Ho), ho);
+	strcpy_s(x.TenLot, sizeof(x.TenLot), tenlot);
+	strcpy_s(x.Ten, sizeof(x.Ten), ten);
+	x.NamSinh = namsinh;
+	x.HeSoLuong = hsluong;
+	return x;
+}
+int RemoveNode_First(List& dsnv, char ten[10])
+{
+	Node* p = dsnv.Head;
+	Node* q = NULL;
+	while (p != NULL)
+	{
+		if (_strcmpi(p->infor.Ten, ten) == 0)
+			break;
+		q = p; p = p->pNext;
+	}
+	if (p == NULL)
+		return 0;
+	if (q != NULL)
+	{
+		if (p == dsnv.Tail)
+			dsnv.Tail = q;
+		q->pNext = p->pNext;
+	}
+	else
+	{
+		dsnv.Head = p->pNext;
+		if (dsnv.Head == NULL)
+			dsnv.Tail = NULL;
+	}
+	delete p;
+	return 1;
+}
+void RemoveX(List& dsnv, char ten[10])
+{
+	while (RemoveNode_First(dsnv, ten));
+}
+void SelectionSort_NamSinh(List& dsnv)
+{
+	Node* min, * q, * p;
+	p = dsnv.Head;
+	while (p!=dsnv.Tail)
+	{
+		min = p;
+		q = p->pNext;
+		while (q!=NULL)
+		{
+			if (q->infor.NamSinh < min->infor.NamSinh)
+				min = q;
+			q = q->pNext;
+		}
+		swap(min->infor, p->infor);
+		p = p->pNext;
+	}
 }
